@@ -1,0 +1,23 @@
+Month,Region,Manager,Sales_before_digital_add(in $),Sales_After_digital_add(in $)
+Month-1,Region - A,Manager - A,132921,270390
+Month-2,Region - A,Manager - C,149559,223334
+Month-3,Region - B,Manager - A,146278,244243
+Month-4,Region - B,Manager - B,152167,231808
+Month-5,Region - C,Manager - B,159525,258402
+Month-6,Region - A,Manager - B,137163,256948
+Month-7,Region - C,Manager - C,130625,222106
+Month-8,Region - A,Manager - A,131140,230637
+Month-9,Region - B,Manager - C,171259,226261
+Month-10,Region - C,Manager - B,141956,193735
+Month-11,Region - B,Manager - C,159339,203175
+Month-12,Region - A,Manager - A,178939,276279
+Month-13,Region - B,Manager - A,145062,205180
+Month-14,Region - A,Manager - A,151514,253131
+Month-15,Region - C,Manager - A,147463,229336
+Month-16,Region - A,Manager - B,177195,187305
+Month-17,Region - A,Manager - C,140862,234908
+Month-18,Region - C,Manager - B,167996,191517
+Month-19,Region - B,Manager - A,132135,227040
+Month-20,Region - A,Manager - B,152493,212579
+Month-21,Region - B,Manager - A,147425,263388
+Month-22,Region - A,Manager - C,130263,243020
